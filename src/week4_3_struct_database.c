@@ -2,6 +2,9 @@
 #include <stdlib.h>  // For malloc and free
 #include <string.h>  // For strcpy (not strictly needed here if using scanf, but good practice)
 
+// Author - Rashmisingh Bayas
+// Student Id - 241ADB026
+
 // Define the struct globally
 struct Student {
   char name[50];

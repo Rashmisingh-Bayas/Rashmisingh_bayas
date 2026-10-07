@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>  // Required for strcpy
 
+// Author - Rashmisingh Bayas
+// Student Id - 241ADB026
+
 // Define the struct globally
 struct Student {
   char name[50];

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> // Required for malloc, free, and exit
-
+// Author - Rashmisingh Bayas
+// Student Id - 241ADB026
 int main(void) {
     int n;
     printf("Enter number of elements: ");
